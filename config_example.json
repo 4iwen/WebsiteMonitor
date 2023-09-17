@@ -1,0 +1,16 @@
+{
+  "websites": [
+    [
+      "Temelin",
+      "https://www.cez.cz/cs/o-cez/infocentra/temelin-136405/"
+    ],
+    [
+      "Dukovany",
+      "https://www.cez.cz/cs/o-cez/infocentra/dukovany-135065/"
+    ]
+  ],
+  "xpath": "//*/div[@class=\"row pb-5\"]/div[@class=\"col-md-8\"]",
+  "email": "email@example.com",
+  "password": "password",
+  "target_email": "target@example.com"
+}
